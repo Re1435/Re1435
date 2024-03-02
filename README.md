@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've 1 year of hands-on experience in Frontend Development and I'm a very passionate Full Stack Developer with a proven track record of delivering high-quality, scalable, and efficient software solutions. With expertise in both front-end and back-end development, <br>I possess strong skills in HTML, CSS, and JavaScript, coupled with extensive experience in modern front-end frameworks like React.js.
+I've more than 1 year of hands-on experience in Frontend Development and I'm a very passionate Full Stack Developer with a proven track record of delivering high-quality, scalable, and efficient software solutions. With expertise in both front-end and back-end development, <br>I possess strong skills in HTML, CSS, and JavaScript, coupled with extensive experience in modern front-end frameworks like React.js.
 
 
 ## 🌐 Socials:
