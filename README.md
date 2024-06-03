@@ -1,6 +1,5 @@
 # 💫 About Me:
-I've more than 1 year of hands-on experience in Frontend Development and I'm a very passionate Full Stack Developer with a proven track record of delivering high-quality, scalable, and efficient software solutions. With expertise in both front-end and back-end development, <br>I possess strong skills in HTML, CSS, and JavaScript, coupled with extensive experience in modern front-end frameworks like React.js.
-
+I have more than 1 year of hands-on experience in Frontend Development and I'm a passionate Full Stack Developer with a proven track record of delivering high-quality, scalable, and efficient software solutions. With expertise in both front-end and back-end development, I possess strong skills in HTML, CSS, and JavaScript, along with extensive experience in modern front-end frameworks like React.js. Additionally, I have experience with Node.js and MongoDB, developing APIs, implementing authentication and authorization using JWT tokens, and managing state with Redux.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahendra-reddy-chinnananjammagari-0a047b189) 
